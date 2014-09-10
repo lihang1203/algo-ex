@@ -1,4 +1,4 @@
-package cc150bench;
+package algo;
 
 public class DetourCalculator {
 	public static class Point {
